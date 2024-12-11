@@ -4,5 +4,3 @@ def start(**kwargs):
     info += f'id : {kwargs['id']}\n'
     info += f'username : {kwargs['username']}\n'
     return info
-
-
